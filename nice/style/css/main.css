@@ -1,0 +1,74 @@
+
+.WB_widget .WB_follow_ex{display: none;}
+#nav .bar {margin: 0px; padding: 18px;height: 30px;}
+#nav .bar .item {height: 30px;line-height: 30px;display: block;float: right;padding: 0 18px; position: relative;}
+ 
+#comment_submit{background:url(../images/em_button.gif) no-repeat; border:0; color:#000000; width:111px; height:29px; text-align:center; cursor:pointer; _cursor:hand} 
+
+#blogsort ul {list-style-type: none; margin: 0px; padding: 0px;}
+#blogsort ul li { margin: 0px 0px 0px 0px; padding: 0px 0px 0px 18px;}
+#blogsort ul li ul li {background:transparent url("../images/bullet.png") 0px 3px no-repeat; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 18px;}
+#blogsort li {list-style-type:none;}
+#blogsort li a{font-size: 13px;color: rgba(13, 211, 222, 0.91);}
+#blogsort li a:hover{font-size: 13px;color: rgb(228, 80, 6);}
+
+#record li a{color: #78D812;}
+#record li a:hover{color: #C52D09;}
+
+.calendar td{color:rgba(199, 137, 20, 0.54);}
+.calendartop{text-align:center; font-size:12px; margin-left:30px;font-size: 14px;}
+.calendartop td{margin:8px;}
+.calendar{margin-bottom:10px;}
+.calendar td{font-size:11px; text-align:center; padding:1px 8px; line-height:1.6;}
+.calendar td a:link{color:rgb(13, 172, 236); text-decoration:none;}
+.calendar td a:hover{color:rgb(87, 236, 13); text-decoration:none}
+.day{background:url(../images/bg_cal_today.gif)  no-repeat 2px 1px}
+.day2{font-weight:bold}
+.sun{color:#333; font-weight:bold}
+.week{color:#C77914}
+
+.rss{ margin:20px 0px;}
+
+.attachment{
+    margin: 0px 3px;
+    padding: 0px 0px 0px 20px;
+    font-weight: bold;
+    background:url(images/att.png)  no-repeat 2px -1px;
+}
+
+#newcomment dd{color:rgb(119, 105, 76);} 
+
+.footer-bottom p{font-size: 12px;color: #fff;}
+.footer-bottom p a:hover{font-size: 12px;color: #F9B108;}
+
+#pagenavi{text-align:center; font-size:17px;font-weight: bold;}
+#pagenavi a{ padding:0px 3px;color: #fff;}
+#pagenavi a:hover{text-decoration:overline ;color:#E85207;}
+#pagenavi span{font-size:16px; color:#999999;}
+
+.nextlog{text-align:center; margin:5px 0; font-size:14px;}
+.nextlog a{color: #DAD634;}
+
+#commentform #comment{background-color: rgba(192, 213, 216, 0.33);width: 450px;}
+
+#contentleft .comment-header{margin:15px 0px 5px 0px}
+#contentleft .comment-post {clear:both}
+#contentleft .comment-post p{margin:5px 0px}
+#contentleft .comment-post .cancel-reply{float:right;font-size:12px;cursor:pointer; _cursor:hand;padding-right:10%}
+#contentleft .comment-post .cancel-reply:hover{text-decoration:underline}
+#contentleft .comment-post small{font-size:12px; color:#999}
+#contentleft .comment-post input{padding:5px 5px; border:1px #b6b6b6 solid; font-size:12px; color:#333; width:40%}
+#contentleft .comment-post #comment{ width:90%; border:1px #b6b6b6 solid; font-size:12px; color:#333}
+ 
+ .comment-post .input{width:100px}
+ .comment{margin:10px 0; padding:10px 0px; font-size:12px; border-bottom:1px #f7f7f7  solid; overflow:hidden; color:#64F598; height:100%; zoom:1}
+.comment span{color:#ff7a15;}
+.comment .comment-time{color:#999999; display:inline; font-size:10px;}
+.comment .avatar{float:left;margin:5px}
+.comment .comment-info{float:left;width:90%}
+.comment .comment-info b{color: rgba(82, 69, 63, 0.91);}
+.comment .comment-content{margin:8px 0px 0px 0px;}
+.comment .comment-reply{float:right;font-size:12px;cursor:pointer; _cursor:hand;}
+.comment .comment-reply:hover{text-decoration:underline}
+.comment-children{width:95%;margin:auto;clear:both;border:none;padding:0}
+.comment .comment-post{width:90%;margin:15px auto}
